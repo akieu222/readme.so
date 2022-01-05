@@ -9,7 +9,7 @@
 
 Create a new issue! On the issue we can discuss the problem and assign the work.
 
-### Ready to contribute?
+### Ready to contribute? 
 
 1. Comment on the issue to claim it
 2. Create a fork of the repo
